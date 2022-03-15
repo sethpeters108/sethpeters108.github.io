@@ -1,5 +1,6 @@
 ---
 title: "My Resume"
+document title: My Resume
 ---
 
 # Seth Peters
