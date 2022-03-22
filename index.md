@@ -1,4 +1,4 @@
-# Seth Peters   (format resume later)
+# Seth Peters
 <br>
 peter108@myumanitoba.ca | (204)555-5555
 <br>
