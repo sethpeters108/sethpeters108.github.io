@@ -25,15 +25,15 @@ world and has the cleanest syntax". This means that it is easy for a beginner to
 
 1. Download a Markdown editor
 
-  * Consider using and editor that allows for a Markdown preview. I use [Atom](https://atom.io/)
+   * Consider using and editor that allows for a Markdown preview. I use [Atom](https://atom.io/)
 
 2. Convert your resume into the Markdown format
 
-  * Follow a tutorial such as [this one](https://helloacm.com/markdown-markup-language-quick-tutorial/) if you need guidance
+   * Follow a tutorial such as [this one](https://helloacm.com/markdown-markup-language-quick-tutorial/) if you need guidance
 
 3. Sign into your GitHub account on the [GitHub website](https://github.com/)
 
-  * If you do not have an account, sign up for one
+   * If you do not have an account, sign up for one
 
 ### Why use GitHub?
 
