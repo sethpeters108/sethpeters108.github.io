@@ -24,15 +24,12 @@ world and has the cleanest syntax". This means that it is easy for a beginner to
 #### Prerequisites
 
 1. Download a Markdown editor
-
   * Consider using and editor that allows for a Markdown preview. I use [Atom](https://atom.io/)
 
 2. Convert your resume into the Markdown format
-
   * Follow a tutorial such as [this one](https://helloacm.com/markdown-markup-language-quick-tutorial/) if you need guidance
 
 3. Sign into your GitHub account on the [GitHub website](https://github.com/)
-
   * If you do not have an account, sign up for one
 
 ### Why use GitHub?
@@ -44,20 +41,15 @@ on the same file."(2016) This helps keep everything you need for your resume in 
 #### Adding Your Resume to GitHub
 
 1. Create a new repository in your GitHub account
-
   * Name it *your-GitHub-username*.github.io
-
   * Make the repository public (this allows someone to access your resume)
-
   * You should now be on your repository page in GitHub.
 
 2. Click *Add file* near the top right of GitHub
 ![Add file location](https://i.imgur.com/i3TAvRL.png)
 3. Click Upload files
 4. Drag your resume.md file into the window
-
   * Make sure Commit directly to the main branch is selected
-
   * Press the Commit changes button
 
 5. Click on your newly added file
@@ -83,13 +75,10 @@ the power to fix inaccuracies almost instantly."(2016) This is great for a resum
 5. Click on the *Add file* button
 6. Click *Create new file*
 7. Name the file README.md
-
   * This file is for any information you would like to give to the viewer
 
 8. Create another new file
-
   * Name this one _config.yml
-
   * This file is for Jekyll formatting
 
 #### Formatting with Jekyll
@@ -98,7 +87,6 @@ the power to fix inaccuracies almost instantly."(2016) This is great for a resum
 2. Click *Change Theme* under the Theme Chooser section
 ![Change theme location](https://i.imgur.com/gl65J7L.png)
 3. Choose a theme
-
   * Once you find a theme you like click the green *Select theme* button
 
 4. Navigate to your _config.yml files
@@ -132,4 +120,4 @@ Markdown is an easy to learn text language that is easily converted into HTML. I
 
 * Why don't my bullet  lists show up correctly?
 
-  After you place the * make sure to add a space before writing the content of your list entry.
+After you place the * make sure to add a space before writing the content of your list entry.
